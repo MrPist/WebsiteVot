@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "68TaEDtYl4rotMXNsR89VRuwKkCZ28EIVz+jcsLnuCrzvQmvKvD0Kb1XX0Jp9KdN0P6WxfK5Lpny2WooiOND/Q==",
+  "dgSpecHash": "1DSlGUS3sJhm2Oa67DKkceGfjc5vRwMpZ/1+cdw54kv2tP/0Pyg9WntgF01Lam+xcp7mwHiddLOgjX4Ud7517A==",
   "success": true,
-  "projectFilePath": "C:\\Users\\phuoc\\Documents\\GitHub\\DoAnWeb\\WebsiteVot\\WebsiteVot.csproj",
+  "projectFilePath": "C:\\Users\\phuoc\\Documents\\DoAnWeb\\WebsiteVot\\WebsiteVot.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\phuoc\\.nuget\\packages\\microsoft.aspnetcore.cryptography.internal\\3.1.32\\microsoft.aspnetcore.cryptography.internal.3.1.32.nupkg.sha512",
     "C:\\Users\\phuoc\\.nuget\\packages\\microsoft.aspnetcore.cryptography.keyderivation\\3.1.32\\microsoft.aspnetcore.cryptography.keyderivation.3.1.32.nupkg.sha512",
